@@ -1,0 +1,24 @@
+{
+  "name": "todo-cli-fatmah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fatmah1235830/probable-octo-pancake.git"
+  },
+  "author": "fatmah",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^3.2.11",
+    "yargs": "^17.6.2",
+    "quote-generator-about-tea": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/fatmah1235830/probable-octo-pancake/issues"
+  },
+  "homepage": "https://github.com/fatmah1235830/probable-octo-pancake#readme"
+}
